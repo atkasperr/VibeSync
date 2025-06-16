@@ -1,9 +1,9 @@
 
 # VibeSync — Our Hackathon-Winning Social Planning App
 
-**🏆 First Place Winner** — Project won 1st place @ UofM hackathon, hosted by Professional Frats in Technology
-**🎯 Challenge:** Entertainment Media and Breaking away From the Medium
-**👥 Team:** Tau Epsilon Kappa members (including myself)
+**🏆 First Place Winner** — Project won 1st place @ UofM student hackathon, hosted by Professional Frats in Technology
+**🎯 Challenge:** Entertainment-Media 
+**👥 Team:** Tau Epsilon Kappa members
 
 ---
 
